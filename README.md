@@ -1,10 +1,8 @@
 - 👋 Hi, I’m Mamour Dieng
-- 👀 I’m currently learning computer science
+- 💻 I’m a computer science student based in Dakar🇸🇳
 - ⌨️ Let me know if you want to collaborate on python projects
 - 📫 How to reach me:
-Join my discord server https://discord.gg/78tK7gaR  💻
-• @mxr.codes on Instagram 📲
-
+Join my [discord server](https://discord.com/invite/cBx5FCek)
 
 
 <!---
