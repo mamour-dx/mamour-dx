@@ -2,7 +2,7 @@
 - 💻 I’m a computer science student based in Dakar🇸🇳
 - 👨🏾‍💻 My personal [website](https://mxr.codes)
 - ⌨️ Let me know if you want to collaborate on python projects
-- 📫 How to reach me: me@mxr.codes 
+- 📫 How to reach me: contact@mxr.codes 
 
 Currently working on a python quiz [website](https://python.mxr.codes) with React js. 
 
