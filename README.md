@@ -5,8 +5,6 @@
 - 📫 How to reach me: contact@mxr.codes 
 
 Recent project: A python quiz [website](https://python.mxr.codes) built with React JS.
-
-
    
 
 
