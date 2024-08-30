@@ -2,8 +2,8 @@
 - 💻 I’m a computer science student based in Dakar🇸🇳
 - 👨🏾‍💻 My personal [website](https://mxr.codes)
 - ⌨️ Let me know if you want to collaborate on web development projects
-- 📫 How to reach me: contact@mxr.codes 
-
+- 📫 How to reach me: contact@mxr.codes
+  
 Recent project: A python quiz [website](https://python.mxr.codes) built with React JS.
    
 
