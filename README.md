@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mamour Dieng
 - 💻 I’m a computer science student based in Dakar🇸🇳
 - 👨🏾‍💻 My personal [website](https://mxr.codes)
-- ⌨️ Let me know if you want to collaborate on web development projects
+- ⌨️ Let me know if you want to collaborate on web development projects 
 - 📫 How to reach me: me@mxr.codes
   
 Recent project: A python quiz [website](https://python.mxr.codes) built with React JS.
