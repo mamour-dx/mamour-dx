@@ -4,7 +4,7 @@
 - ⌨️ Let me know if you want to collaborate on web development projects 
 - 📫 How to reach me: me@mxr.codes
   
-Recent project: A python quiz [website](https://python.mxr.codes) built with React JS.
+Recent project: A python quiz [website](https://python.mxr.codes) built with React JS
    
 
 
