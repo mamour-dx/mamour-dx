@@ -4,9 +4,6 @@
 - ⌨️ Let me know if you want to collaborate on projects 
 - 📫 How to reach me: me@mxr.codes
 
-  
-Recent project: A python quiz [website](https://python.mxr.codes) built with React JS 
-
 
 <!---
 mamour-dx/mamour-dx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
