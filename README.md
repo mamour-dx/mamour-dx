@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Mamour Dieng
 - 💻 I’m a computer science student based in Dakar🇸🇳
-- 👨🏾‍💻 My personal [website](https://mxr.codes)
 - ⌨️ Let me know if you want to collaborate on projects 
-- 📫 How to reach me: me@mxr.codes
+- 📫 How to reach me: hi@mxr.codes
